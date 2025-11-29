@@ -15,10 +15,7 @@ A passionate Software Engineer | MERN-Stack | Tech Enthusiast from India
 📫 Ping me at: LinkedIn
 
 
-
-
 <hr>
-<br>
 
 ### 🎮 Feeling bored? Let's play a little game!  
 Before you scroll down, try **move your cursor were the snake moving in the game** below! 🐍  

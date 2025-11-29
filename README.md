@@ -18,7 +18,7 @@ A passionate Software Engineer | MERN-Stack | Tech Enthusiast from India
 <hr>
 
 ### 🎮 Feeling bored? Let's play a little game!  
-Before you scroll down, try **move your cursor were the snake moving in the game** below! 🐍  
+Before you scroll down, 🎯 **try to move your cursor were the snake is moving in the game below!** 🐍  
 See how far you can keep it up!  
 
 <!-- Snake Game Repo View -->
